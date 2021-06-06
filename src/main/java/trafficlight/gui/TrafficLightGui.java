@@ -7,6 +7,10 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+/**
+ * REFERENCE: https://stackoverflow.com/questions/47126858/java-gui-traffic-light-change-colour-method-based-on-array-values
+ */
+
 public class TrafficLightGui extends JFrame implements ActionListener {
 
     public static final String ACTION_COMMAND_STOP = "stop";
