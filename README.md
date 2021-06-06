@@ -1,5 +1,7 @@
 # Traffic Light
 
+https://github.com/marychan333/PROG-ue2
+
 Das ist das Codetemplate für die zweite Übung in Programmierung 2.
 
 Ziel: Umsetzung des Observer Patterns und des Singleton Patterns
